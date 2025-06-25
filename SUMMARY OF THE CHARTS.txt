@@ -1,0 +1,48 @@
+SUMMARY OF THE CHARTS
+
+1. Slide Title: Sales Trend by Region (Chart 1)
+Chart: Bar chart – Region vs. Yearly Sales
+Insight:
+West consistently outperforms all other regions.
+East shows strong growth potential.
+South region lags behind – potential for targeted strategies.
+Recommendation:
+Focus marketing and product availability in the West to maintain dominance.
+Analyze South region’s needs – possibly low distribution or demand.
+
+2. Slide Title: Monthly Sales Trends (Chart 2)
+Chart: Line chart – Order Date vs. Sales
+Insight:
+December shows consistent spikes – likely due to holiday promotions.
+Sales are volatile; not evenly distributed across months.
+Recommendation:
+Capitalize on December spikes with early promotions.
+Identify off-peak months and run offers to balance sales throughout the year.
+
+3. Slide Title: Profit by Category and Sub-Category (Chart 3)
+Chart: Bar chart – Median Profit by Category > Sub-Category
+Insight:
+Technology (esp. Copiers) delivers the highest profit.
+Some Office Supplies have low median profit.
+Recommendation:
+Upsell high-profit items like Copiers.
+Reassess product pricing and discounting in low-profit categories.
+
+4. Slide Title: Top 10 Customers by Sales (Chart 4)
+Chart: Bar chart – Top Customers vs. Yearly Sales
+Insight:
+Sean Miller & Tamara Chand are top contributors.
+Most customers are not consistently high across all years.
+Recommendation:
+Maintain strong engagement with top customers via loyalty programs.
+Build retention strategies for customers with fluctuating sales.
+
+5. Slide Title: Sales vs Profit Correlation (Chart 5)
+Chart: Scatter plot – Sales vs. Median Profit
+Insight:
+Positive correlation between Sales and Profit for most categories.
+Some outliers exist with high sales but low profit.
+Recommendation:
+Investigate outliers to improve pricing or reduce costs.
+Encourage sales of items that maintain healthy profit margins.
+
